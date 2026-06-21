@@ -22,6 +22,3 @@ elif (jugador == "piedra" and computadora == "tijera") or \
      (jugador == "papel" and computadora == "piedra") or \
      (jugador == "tijera" and computadora == "papel"):
     print("Ganó")
-
-else:
-    print("Perdió")
